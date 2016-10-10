@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-caffe train --solver=solver.prototxt
+/home/linuxdev/caffe/build/install/bin/caffe train --solver=./solver.prototxt
